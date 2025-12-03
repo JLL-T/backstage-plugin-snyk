@@ -1,5 +1,9 @@
 # Snyk Backstage Plugin
 
+---
+Maintained by JLL dev-platform team.
+---
+
 The Snyk plugin displays security details from [snyk.io](https://snyk.io/).
 
 ![Snyk Tab](docs/assets/backstage-snyk-plugin-tab.png)
